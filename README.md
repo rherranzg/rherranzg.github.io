@@ -89,12 +89,12 @@ I made a mix of low and high fidelity wireframes for the pages of my website. Th
 
 ## Creator / Maintainer
 
-Raul Herranz ([anniedotexe](https://github.com/anniedotexe))
+Raul Herranz ([anniedotexe](https://github.com/rherranzg))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
 <p align="left">
-  <a href="mailto:anniewu2303@gmail.com"> 
+  <a href="mailto:raul.herranz87@gmail.com"> 
     <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
