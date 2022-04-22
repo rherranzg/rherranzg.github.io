@@ -1,4 +1,4 @@
-# [anniew.xyz](https://anniew.xyz/) - v2.0
+# [rherranzg.github.io](https://rherranzg.github.io/) - v2.0
 
 This is the source code for my personal website - a developer and photographer portfolio.
 
@@ -12,7 +12,7 @@ This is the source code for my personal website - a developer and photographer p
 </p>
 
 <p align="center">
-  <a href="http://anniew.xyz"><img src="./img/readme/screenshot.png" width="700px" alt="landing page"></a>
+  <a href="http://rherranzg.github.io"><img src="./img/readme/screenshot.png" width="700px" alt="landing page"></a>
 </p>
 
 ## Table of Contents
@@ -53,7 +53,7 @@ This is the source code for my personal website - a developer and photographer p
 
 ### Icon
 
-This is the icon of me in [anniew.xyz/about](https://anniew.xyz/about)
+This is the icon of me in [rherranzg.github.io/about](https://rherranzg.github.io/about)
 
 _Art credits to my friend [Steph](https://www.instagram.com/wynn.draws/)._
 
@@ -89,7 +89,7 @@ I made a mix of low and high fidelity wireframes for the pages of my website. Th
 
 ## Creator / Maintainer
 
-Annie Wu ([anniedotexe](https://github.com/anniedotexe))
+Raul Herranz ([anniedotexe](https://github.com/anniedotexe))
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
@@ -109,4 +109,4 @@ If you like my content or find this code useful, give it a ⭐ or support me by 
 
 ### License
 
-Copyright &copy; 2021 Annie Wu. All rights reserved.
+Copyright &copy; 2021 Raul Herranz. All rights reserved.
