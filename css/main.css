@@ -62,7 +62,7 @@ ul {
 }
 
 .social-link a i:hover {
-    color: #F08CAE;
+    color: #40db76;
 }
 
 .main-container {
@@ -82,7 +82,7 @@ section {
 }
 
 section .hyperlink {
-    color: #F08CAE;
+    color: #7EB77F;
     font-weight: 700;
     text-decoration: underline;
     transition: all 0.2s ease;
