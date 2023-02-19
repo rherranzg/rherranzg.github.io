@@ -118,13 +118,13 @@ h3 a:hover {
 
 .cta span {
     margin-left: 10px;
-    color: #1D263B;
+    color: #ffffff;
     font-weight: 700;
 }
 
 .email-button {
-    border: 1px solid #F08CAE;
-    background-color: #F08CAE;
+    border: 1px solid #50b929;
+    background-color: #50b929;
 }
 
 .cta:hover {
