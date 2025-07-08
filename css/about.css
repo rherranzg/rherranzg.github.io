@@ -198,11 +198,11 @@ h4, h5 {
         flex-direction: row;
         justify-content: space-between;
     }
-    .education-experience-container {
-        width: 48%;
+    #education.education-experience-container {
+        width: 40%;
     }
-    #experience {
-        margin-top: 0;
+    #experience.education-experience-container {
+        width: 60%;
     }
     .section-description {
         margin: 50px 10% 0 10%;
@@ -233,7 +233,7 @@ h4, h5 {
         width: 40%;
     }
     .card-description {
-        width: 60%;
+        width: 70%;
         margin-top: 0;
     }
     .section-description {
